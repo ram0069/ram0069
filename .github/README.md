@@ -1,6 +1,6 @@
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
-<h1> <img src="https://telegra.ph/file/9df083ca42b9d44997a3b.jpg" height="100px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ʀᴀᴍ </h1>
+<h1> <img src="https://telegra.ph/file/9df083ca42b9d44997a3b.jpg" height="150px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ʀᴀᴍ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
