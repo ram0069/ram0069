@@ -40,5 +40,7 @@ class Anonymous():
             'Windows', 'Android', 'Linux'
         ]
  ```
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+
 
 ⋟ Tᴇʟᴇɢʀᴀᴍ Aᴄᴄᴏᴜɴᴛ :- [ʀᴀᴍ](https://t.me/papa_of_telegram)
